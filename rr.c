@@ -11,7 +11,7 @@ int isFinish(int burst[],int n){
     return 1;
 }
 
-
+//main program
 int main(){
     int i=0,j=0,time=0,n=6,b=0;
     int g=0;
